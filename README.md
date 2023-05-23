@@ -2,7 +2,7 @@
 //application gestion des livres realisée avec Graphql et grpc
 
 
-                                 **********Documentation du projet de gestion de livres (Microservices avec GraphQL et gRPC)**********
+                          **********Documentation du projet de gestion de livres (Microservices avec GraphQL et gRPC)**********
 *****Introduction:*****
 Ce projet vise à développer un système de gestion de livres utilisant une architecture basée sur des microservices et des technologies telles que GraphQL et gRPC. L'objectif principal du projet est de fournir une API permettant de créer, lire, mettre à jour et supprimer des livres, en utilisant des microservices indépendants pour gérer différentes fonctionnalités.
 
