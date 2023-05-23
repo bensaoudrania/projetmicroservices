@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package livre;
+
+service LivreService {
+  rpc GetLivres (Empty) returns (Livres);
+}
+
+message Empty {}
+
+message Livre {
+  int32 id = 1;
+  string titre = 2;
+  string auteur = 3;
+  int32 annee = 4;
+}
+
+message Livres {
+  repeated Livre livres = 1;
+}
