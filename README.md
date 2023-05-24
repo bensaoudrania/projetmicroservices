@@ -40,16 +40,13 @@ livres: Récupère la liste des livres existants.
    -Mutation:
 
 -ajouterLivre: Ajoute un nouveau livre.
--modifierLivre: Modifie les détails d'un livre existant.
--supprimerLivre: Supprime un livre existant.
 
      *****Fonctionnalités implémentées:*****
 Le projet met en œuvre les fonctionnalités suivantes :
 
 -Ajout d'un nouveau livre à la base de données.
 -Récupération de la liste complète des livres.
--Modification des détails d'un livre existant.
--Suppression d'un livre de la base de données.
+
 
      *****Conclusion:*****
 La documentation ci-dessus fournit une vue d'ensemble du projet de gestion de livres basé sur des microservices avec GraphQL et gRPC. Elle décrit l'architecture du système, les schémas de données, les interactions entre les microservices et les fonctionnalités implémentées. Cette documentation servira de référence pour comprendre et travailler sur le projet.
